@@ -48,10 +48,6 @@ Una volta effettuato il login, l'utente può accedere ad un'interfaccia intuitiv
 - **MySQL** - Database relazionale
 - **mysql2** - Driver MySQL per Node.js
 
-### Autenticazione e Sicurezza
-- **bcrypt** - Hashing delle password (PIN)
-- **jsonwebtoken (JWT)** - Gestione token di autenticazione
-- **cookie-parser** - Parsing dei cookie
 
 ## Pacchetti Installati
 
@@ -223,6 +219,9 @@ Il database memohealthcare, gestito tramite https://www.phpmyadmin.net/, è il c
 - **MySQL**: https://dev.mysql.com/doc/
 - **JWT**: https://jwt.io/introduction
 - **bcrypt**: https://www.npmjs.com/package/bcrypt
+- **BOOTSTRAP**: https://getbootstrap.com/docs/5.3/getting-started/introduction/
+- **W3schools**: https://www.w3schools.com/
+- Materiale universitario (Slide/Laboratorio)
 
 ---
 
