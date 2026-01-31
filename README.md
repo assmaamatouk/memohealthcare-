@@ -145,7 +145,7 @@ MemoHealthcare/
 
 1. **Clona il repository**
    ```bash
-   git clone 
+   git clone https://github.com/assmaamatouk/memohealthcare-.git
    cd MemoHealthcare
    ```
 
